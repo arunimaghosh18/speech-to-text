@@ -36,7 +36,7 @@ Installation
 
 Clone the Repository:
 
-git clone https://github.com/your-username/speech-to-text-app.git
+git clone https://github.com/stutig123/speech-to-text-app.git
 
 Open in Android Studio:
 
