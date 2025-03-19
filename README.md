@@ -44,13 +44,15 @@ git clone https://github.com/stutig123/speech-to-text-app.git
 ```
 ---
 
-###2️⃣ Open the Project in Android Studio
-Open Android Studio.
-Click on "Open an existing project".
-Navigate to the cloned repository and select it.
+### 2️⃣ Open the Project in Android Studio
+- **Open Android Studio.**
+- **Click on "Open an existing project".**
+- **Navigate to the cloned repository and select it.**
+
 ---
 3️⃣ Sync Project with Gradle Files
-Click on File > Sync Project with Gradle Files.
+
+- **Click on File > Sync Project with Gradle Files.**
 ---
 4️⃣ Build the Project
 Click on Build > Make Project.
