@@ -40,7 +40,7 @@ Make sure you have the following installed on your system:
 ### 1️⃣ Clone the Repository  
 
 ```sh
-git clone https://github.com/stutig123/speech-to-text-app.git
+git clone https://github.com/arunimaghosh18/speech-to-text-app.git
 ```
 ---
 
