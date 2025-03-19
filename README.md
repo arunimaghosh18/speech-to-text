@@ -41,3 +41,29 @@ Make sure you have the following installed on your system:
 
 ```sh
 git clone https://github.com/stutig123/speech-to-text-app.git
+```sh
+
+---
+
+###2️⃣ Open the Project in Android Studio
+Open Android Studio.
+Click on "Open an existing project".
+Navigate to the cloned repository and select it.
+3️⃣ Sync Project with Gradle Files
+Click on File > Sync Project with Gradle Files.
+4️⃣ Build the Project
+Click on Build > Make Project.
+▶️ Running the App
+1️⃣ Connect your Android device or start an emulator.
+2️⃣ Run the App
+Click on Run > Run 'app'.
+3️⃣ Grant Permissions
+Upon launching the app, grant the necessary microphone and internet permissions.
+🎤 Usage
+1️⃣ Launch the App – Tap on the app icon to open it.
+2️⃣ Start Recording – Press the Start button to begin speech recognition.
+3️⃣ Speak Clearly – Speak into the device's microphone.
+4️⃣ Stop Recording – Press the Stop button to end speech recognition.
+5️⃣ View Transcription – The spoken words will be displayed as text on the screen.
+
+
